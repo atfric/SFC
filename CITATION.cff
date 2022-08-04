@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Space Filling Curve sparse matrix reordering
+  implementations
+message: >-
+  if you use components of this software, please cite
+  acordingly.
+type: software
+authors:
+  - given-names: Stephan
+    family-names: Frickenhaus
+    email: Stephan.Frickenhaus@awi.de
+    affiliation: >-
+      Alfred Wegener Institute Helmholtz Centre for
+      Polar and Marine Research
+    orcid: 'https://orcid.org/0000-0002-0356-9791'
+  - given-names: Rakowsky
+    family-names: Natalja
+    affiliation: >-
+      Alfred Wegener Institute Helmholtz Centre for
+      Polar and Marine Research
+    orcid: 'https://orcid.org/0000-0001-6101-0526'
